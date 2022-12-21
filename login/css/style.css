@@ -1,0 +1,8 @@
+.wrapper{
+	border-top: 03px solid green;
+}
+.logo{
+	position: absolute;
+	top: auto;
+	right: auto;
+}
